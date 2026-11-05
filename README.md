@@ -153,23 +153,9 @@ Configured:
 
 ## Possible Improvements
 
-### Security
-
-- HTTPS with trusted certificates
-- Access control for SMB shares
-- Ubuntu server hardening
-
-### Scalability
-
-- Dedicated storage for the repository
-- Reverse proxy implementation
-- Separate database server
-
-### Automation
-
-- Ansible-based deployment
-- Automated backups
-- Automated software updates
+- Enable HTTPS with trusted TLS certificates for both Munki and MunkiReport.
+- Automate infrastructure deployment and maintenance using Ansible.
+- Integrate with an MDM platform such as Jamf Pro, Mosyle, or Kandji to streamline device enrollment and management.
 
 ### Endpoint Management
 
