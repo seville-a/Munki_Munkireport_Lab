@@ -170,10 +170,6 @@ During the implementation I encountered and solved several issues:
 - Automate infrastructure deployment and maintenance using Ansible.
 - Integrate with an MDM platform such as Jamf Pro, Mosyle, or Kandji to streamline device enrollment and management.
 
-### Endpoint Management
-
-- Integration with MDM platforms (Jamf, Mosyle, Kandji)
-
 ---
 
 ## Running the Environment
