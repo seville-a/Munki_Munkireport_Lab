@@ -13,3 +13,4 @@
 
 # GUI
 
+<img width="1015" height="682" alt="image" src="https://github.com/user-attachments/assets/02bc93cf-5fec-4dbd-8b7d-8b15eb5b4cd8" />
