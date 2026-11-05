@@ -1,4 +1,4 @@
-# Silent deploy.
+# Silent deploy
 
 <img width="1878" height="974" alt="image" src="https://github.com/user-attachments/assets/c0db0196-6b8e-46dd-beae-2e24a05bcd40" />
 
