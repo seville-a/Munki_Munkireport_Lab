@@ -196,7 +196,6 @@ During the implementation I encountered and solved several issues:
 #### Clients
 
 - macOS Sonoma
-- Munki Client
 
 ### Startup
 
@@ -222,7 +221,19 @@ A demonstration video is available showing:
 - MunkiReport monitoring
 - Error detection and reporting
 
-> Add demo video or link here.
+
+
+
+https://github.com/user-attachments/assets/88f8e2ea-69a7-4b54-8c80-92e53e512bcd
+
+
+
+
+https://github.com/user-attachments/assets/3a4070c7-53fe-4257-9de9-0089236f803c
+
+
+<img width="881" height="589" alt="image" src="https://github.com/user-attachments/assets/bed3f989-d14d-4c59-8ae7-be5da844a2d2" />
+
 
 ---
 
@@ -233,7 +244,7 @@ More images and some configuration details are available in the `docs/` director
 ```text
 docs/
 ├── munki-server.md
-├── munkireport-server.md
-├── munkiadmin.md
+├── munkireport_server.md
+├── munki_admin.md
 └── client-enrollment.md
 ```
