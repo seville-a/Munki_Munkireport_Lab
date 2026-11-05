@@ -234,8 +234,6 @@ Detailed configuration guides are available in the `docs/` directory:
 docs/
 ├── munki-server.md
 ├── munkireport-server.md
-├── apache-vhosts.md
-├── dns-configuration.md
-├── smb-configuration.md
+├── munkiadmin.md
 └── client-enrollment.md
 ```
