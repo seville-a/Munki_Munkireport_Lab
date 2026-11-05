@@ -19,9 +19,11 @@ This project demonstrates a centralized macOS software deployment and monitoring
 ### Infrastructure
 
 - Ubuntu Server 26.04.1
+- MacOS for repo administration (macOS 10.13 or later)
 - Apache2
 - DNS
 - SMB
+
 
 ### Software Distribution
 
@@ -37,7 +39,7 @@ This project demonstrates a centralized macOS software deployment and monitoring
 
 ### Clients
 
-- macOS Sonoma
+- macOS Sonoma (or from macOS 10.13 or later)
 
 ---
 
@@ -59,6 +61,29 @@ This project demonstrates a centralized macOS software deployment and monitoring
 - Deployment monitoring
 - Error reporting and troubleshooting
 - Hardware and software inventory collection
+
+---
+
+## Demo Video
+
+A demonstration video is available showing:
+
+- Repository management
+- Package deployment
+- Client synchronization
+- Automatic installation
+- MunkiReport monitoring
+- Error detection and reporting
+
+
+
+
+https://github.com/user-attachments/assets/88f8e2ea-69a7-4b54-8c80-92e53e512bcd
+
+
+
+
+https://github.com/user-attachments/assets/3a4070c7-53fe-4257-9de9-0089236f803c
 
 ---
 
@@ -117,8 +142,8 @@ The web application provides centralized visibility of all enrolled clients.
 
 Installed:
 
-- MunkiAdmin
 - MunkiTools
+- MunkiAdmin
 
 Used to:
 
@@ -169,64 +194,6 @@ During the implementation I encountered and solved several issues:
 - Enable HTTPS with trusted TLS certificates for both Munki and MunkiReport.
 - Automate infrastructure deployment and maintenance using Ansible.
 - Integrate with an MDM platform such as Jamf Pro, Mosyle, or Kandji to streamline device enrollment and management.
-
----
-
-## Running the Environment
-
-### Requirements
-
-#### Server
-
-- Ubuntu Server 26.04.1
-- Apache2
-- PHP
-- MySQL
-- SMB
-
-#### Admin Workstation
-
-- MunkiAdmin
-- Network access to the repository
-
-#### Clients
-
-- macOS Sonoma
-
-### Startup
-
-1. Start the Ubuntu server.
-2. Verify DNS resolution.
-3. Verify Apache virtual hosts.
-4. Verify repository access.
-5. Verify MunkiReport access.
-6. Start macOS clients.
-7. Run Munki synchronization.
-8. Monitor deployment results in MunkiReport.
-
----
-
-## Demo Video
-
-A demonstration video is available showing:
-
-- Repository management
-- Package deployment
-- Client synchronization
-- Automatic installation
-- MunkiReport monitoring
-- Error detection and reporting
-
-
-
-
-https://github.com/user-attachments/assets/88f8e2ea-69a7-4b54-8c80-92e53e512bcd
-
-
-
-
-https://github.com/user-attachments/assets/3a4070c7-53fe-4257-9de9-0089236f803c
-
 
 ---
 
