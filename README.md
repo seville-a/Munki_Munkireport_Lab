@@ -228,7 +228,7 @@ A demonstration video is available showing:
 
 ## Documentation
 
-Detailed configuration guides are available in the `docs/` directory:
+More images and some configuration details are available in the `docs/` directory:
 
 ```text
 docs/
