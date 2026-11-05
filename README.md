@@ -151,6 +151,19 @@ Configured:
 
 ---
 
+## Challenges Faced
+
+During the implementation I encountered and solved several issues:
+
+- Apache virtual hosts serving the wrong site.
+- Repository access problems caused by filesystem permissions.
+- Munki manifest retrieval failures (HTTP 404).
+- DNS resolution issues between clients and services.
+- MySQL permission errors during MunkiReport setup.
+- Communication issues between Munki clients and the repository.
+
+---
+
 ## Possible Improvements
 
 - Enable HTTPS with trusted TLS certificates for both Munki and MunkiReport.
