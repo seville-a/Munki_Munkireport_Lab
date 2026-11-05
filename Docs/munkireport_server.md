@@ -14,3 +14,12 @@
 # GUI
 
 <img width="1015" height="682" alt="image" src="https://github.com/user-attachments/assets/02bc93cf-5fec-4dbd-8b7d-8b15eb5b4cd8" />
+
+# IN CASE OF ERROR (Wrong repo name)
+
+<img width="567" height="241" alt="image" src="https://github.com/user-attachments/assets/a0074c1f-d54c-42f5-a37f-497bd7359975" />
+
+
+<img width="890" height="463" alt="image" src="https://github.com/user-attachments/assets/3401f56f-aa94-4a75-ae1b-45987145e3f9" />
+
+<img width="881" height="589" alt="image" src="https://github.com/user-attachments/assets/05f0175f-e010-498c-987c-011002453212" />
