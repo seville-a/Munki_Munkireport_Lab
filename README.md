@@ -39,7 +39,7 @@ This project demonstrates a centralized macOS software deployment and monitoring
 
 ### Clients
 
-- macOS Sequoia (or from macOS 10.13 or later)
+- MacOS Sequoia (or from macOS 10.13 or later)
 
 ---
 
