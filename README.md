@@ -39,7 +39,7 @@ This project demonstrates a centralized macOS software deployment and monitoring
 
 ### Clients
 
-- macOS Sonoma (or from macOS 10.13 or later)
+- macOS Sequoia (or from macOS 10.13 or later)
 
 ---
 
